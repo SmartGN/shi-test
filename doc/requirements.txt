@@ -1,0 +1,2 @@
+ansiblei = 2.9
+kernel >= 3.10
