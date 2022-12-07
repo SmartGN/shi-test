@@ -1,6 +1,6 @@
-Read the Docs: Documentation Simplified
+SmartGN doc : Documentation Simplified
 =======================================
-
+test test test
 .. meta::
    :description lang=en: Automate building, versioning, and hosting of your technical documentation continuously on Read the Docs.
 
@@ -299,3 +299,4 @@ of Read the Docs and the larger software documentation ecosystem.
    Developer Documentation <https://dev.readthedocs.io>
    glossary
    gsoc
+   test test test
