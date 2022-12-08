@@ -1,9 +1,7 @@
 SMartGN doc doc  : first test
 =======================================
 test test test
-.. meta::
-   :description lang=en: Automate building, versioning, and hosting of your technical documentation continuously on Read the Docs.
-
+This is a test
 `Read the Docs`_ simplifies software documentation
 by building, versioning, and hosting of your docs, automatically.
 This enables many "docs like code" workflows,
