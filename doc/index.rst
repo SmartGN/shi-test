@@ -2,6 +2,7 @@ SMartGN doc doc  : first test
 =======================================
 test test test
 This is a test
+test
 `Read the Docs`_ simplifies software documentation
 by building, versioning, and hosting of your docs, automatically.
 This enables many "docs like code" workflows,
