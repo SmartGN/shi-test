@@ -3,65 +3,6 @@ SMartGN doc doc  : first test
 test test test
 This is a test
 test
-`Read the Docs`_ simplifies software documentation
-by building, versioning, and hosting of your docs, automatically.
-This enables many "docs like code" workflows,
-keeping your code & documentation as close as possible.
-
-Never out of sync |:arrows_counterclockwise:|
-    Whenever you push code to your favorite version control system,
-    whether that is Git or Mercurial,
-    Read the Docs will automatically build your docs
-    so your code and documentation are always up-to-date.
-    Read more about :doc:`/integrations`.
-
-Multiple versions |:card_index_dividers:|
-    Read the Docs can host and build multiple versions of your docs
-    so having a 1.0 version of your docs and a 2.0 version
-    of your docs is as easy as having a separate branch or tag in your version control system.
-    Read more about :doc:`/versions`.
-
-Open Source and User Focused |:heartbeat:|
-    Our code is free and `open source <https://github.com/readthedocs/>`_.
-    :doc:`Our company </about>` is bootstrapped and 100% user focused.
-    |org_brand| hosts documentation for over 100,000 large
-    and small open source projects,
-    in almost every human and computer language.
-    |com_brand| supports hundreds of organizations with product and internal documentation.
-
-.. _Read the docs: https://readthedocs.org/
-
-You can find out more about our all the :doc:`/features` in these pages.
-
-First steps
------------
-
-Are you new to software documentation
-or are you looking to use your existing docs with Read the Docs?
-Learn about documentation authoring tools such as Sphinx and MkDocs
-to help you create fantastic documentation for your project.
-
-* **Tutorial**: :doc:`/tutorial/index`
-
-* **Getting started**:
-  :doc:`With Sphinx </intro/getting-started-with-sphinx>` |
-  :doc:`With MkDocs </intro/getting-started-with-mkdocs>` |
-  :doc:`/choosing-a-site`
-
-* **Importing your existing documentation**:
-  :doc:`Import guide </intro/import-guide>`
-
-
-.. toctree::
-   :maxdepth: 2
-   :hidden:
-   :caption: First steps
-
-   /tutorial/index
-   /intro/getting-started-with-sphinx
-   /intro/getting-started-with-mkdocs
-   /intro/import-guide
-   /choosing-a-site
 
 
 Read the Docs feature overview
