@@ -7,9 +7,9 @@ build:
 
 # Build from the docs/ directory with Sphinx
 sphinx:
-  configuration: docs/conf.py
+  configuration: src/pybind11/docs/conf.py
 
 # Explicitly set the version of Python and its requirements
 python:
   install:
-    - requirements: docs/requirements.txt
+    - requirements: src/pybind11/docs/requirements.txt
